@@ -1,2 +1,0 @@
-# Clor
-Random event generator
